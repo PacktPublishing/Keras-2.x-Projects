@@ -51,8 +51,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * MATLAB for Machine Learning [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/matlab-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1788398432)
 
 ## Get to Know the Author
-**Giuseppe Ciaburro**
-Giuseppe Ciaburro holds a PhD in environmental technical physics and two master's degrees. His research was focused on machine learning applications in the study of urban sound environments. He works at Built Environment Control Laboratory—Università degli Studi della Campania Luigi Vanvitelli (Italy). He has over 15 years of professional experience in programming (Python, R, and MATLAB), first in the field of combustion and then in acoustics and noise control. He has several publications to his credit.
+**Giuseppe Ciaburro** holds a PhD in environmental technical physics and two master's degrees. His research was focused on machine learning applications in the study of urban sound environments. He works at Built Environment Control Laboratory—Università degli Studi della Campania Luigi Vanvitelli (Italy). He has over 15 years of professional experience in programming (Python, R, and MATLAB), first in the field of combustion and then in acoustics and noise control. He has several publications to his credit.
 
 
 
