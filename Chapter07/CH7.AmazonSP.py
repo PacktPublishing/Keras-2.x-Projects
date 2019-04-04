@@ -64,7 +64,7 @@ model = Sequential()
 model.add(LSTM(256, input_shape=(1, TimeStep)))
 model.add(Dense(1, activation='sigmoid'))
 model.compile(loss='mean_squared_error', optimizer='adam',metrics=['accuracy'])
-model.fit(TrainX, TrainY, epochs=1, batch_size=1, verbose=1)
+model.fit(TrainX, TrainY, epochs=100, batch_size=1, verbose=1)
 model.summary()
 
 score = model.evaluate(TrainX, TrainY, verbose=0)
