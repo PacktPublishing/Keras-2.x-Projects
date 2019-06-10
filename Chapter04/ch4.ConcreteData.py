@@ -1,7 +1,7 @@
 import pandas as pd
 
 HDNames= ['Cement','BFS','FLA','Water','SP','CA','FA','Age','CCS']
-Data = pd.read_excel('C:\pythonscript\KDL\ConcreteData.xlsx', names=HDNames)
+Data = pd.read_excel('ConcreteData.xlsx', names=HDNames)
 
 
 print(Data.head(20))
