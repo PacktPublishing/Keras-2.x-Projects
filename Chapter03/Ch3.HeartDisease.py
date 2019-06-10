@@ -2,7 +2,7 @@ import pandas as pd
 
 #Import data
 HDNames= ['age','sex','cp','trestbps','chol','fbs','restecg','thalach','exang','oldpeak','slope','ca','hal','HeartDisease']
-Data = pd.read_excel('ClevelandData.xlsx', names=HDNames)
+Data = pd.read_excel('Ch3.ClevelandData.xlsx', names=HDNames)
 
 
 print(Data.head(20))
