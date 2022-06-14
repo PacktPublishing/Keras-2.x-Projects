@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B11529?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Keras 2.x Projects
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/keras-2x-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789536645 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781789536645_cover.png" alt="Keras 2.x Projects" height="256px" align="right"></a>
